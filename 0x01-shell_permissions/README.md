@@ -13,3 +13,4 @@ adds execute permission to all subdirectories of the current directory for the o
 creates a directory called mydir with permissions 751 in the working directory
 changes the group owner to school for the file hello
 changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+changes the owner and the group owner of _hello to vincent and staff respectively
